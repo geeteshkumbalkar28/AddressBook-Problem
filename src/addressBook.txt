@@ -1,0 +1,3 @@
+firstName=Priyanka,lastName=Singh,phoneNumber=789456123,email=priya123@yahoo.com,city=bangalore,zip=123456,state=karnataka
+firstName=Bill,lastName=gates,phoneNumber=7412563,email=bill03@gmail.com,city=delhi,zip=12457,state=delhi
+firstName=John,lastName=Joy,phoneNumber=456789123,email=johnjoy12@rediff.com,city=bangalore,zip=123456,state=karnataka
